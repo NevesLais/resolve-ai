@@ -27,7 +27,7 @@ ResolveAi é uma plataforma digital desenvolvida para conectar clientes que prec
 
 
 
-### 🤖 Linguagens e Tecnologias
+# 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
